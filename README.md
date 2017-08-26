@@ -1,4 +1,4 @@
 # RavenSLA
 Open-source, SLA 3D printing. Expressley for biomimetics, prosthetics and transhumanism.
 
-*this repository will be updated post dissertation completion. Stick with me, this will be something to see!
+*this repository is in the process of being properly formatted and documented. Bug fixes and improvements come later.

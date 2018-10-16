@@ -5,7 +5,7 @@ anyone. The focus of this project was the algorithms which would allow for such 
 especially the distortion that would occur the further the galvanometer was from any single point on the bed, since the
 same step would result in different distances.
 
-\*this repository is in the process of being deprecated by a newer version, based on the ESP32.
+\*this repository is no longer in development, hopefully in the future I will have time to completeley overhaul everything to be more consistent, stable, and configurable.
 
 
 ![ravensla prototype](https://user-images.githubusercontent.com/10534713/29745794-dbba512e-8abc-11e7-8412-58877c0a0c33.jpg)
